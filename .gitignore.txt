@@ -1,0 +1,5 @@
+# Visual Studio 2015/2017 cache/options directory
+Lapcare.API/.vs/
+Lapcare.API/appsettings.Development.json
+Lapcare.API/appsettings.json
+Lapcare.API/Lapcare.API.csproj
